@@ -1,0 +1,9 @@
+https://search.censys.io/
+This website can be used for domain discovery, this site scans and takes in all new certs that are made public.
+
+Sublist3r is a great and easy to use tool that harvests subdomains from various sources: search engines, PassiveDNS, even VirusTotal.
+
+git clone https://github.com/aboul3la/sublist3r
+python -m pip install -r requirements.txt
+
+python sublist3r.py -d gretschpolitico.com

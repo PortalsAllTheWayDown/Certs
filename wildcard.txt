@@ -1,0 +1,2 @@
+A wildcart cert is a single point of failure. Should we stumble upon the private key while roaming the companys network, we could intercept the communication flow of all applicaitons using that same parent domain.
+
